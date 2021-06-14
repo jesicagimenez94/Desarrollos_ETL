@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "practicaUniondeVariosArchivos", "practicaUniondeVariosArchivos\practicaUniondeVariosArchivos.dtproj", "{7BC8ABCF-0FC1-4F89-83D3-72C54EC3512E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BC8ABCF-0FC1-4F89-83D3-72C54EC3512E}.Development|Default.ActiveCfg = Development
+		{7BC8ABCF-0FC1-4F89-83D3-72C54EC3512E}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {898EA769-C6DA-4670-8E55-B7418E347E4C}
+	EndGlobalSection
+EndGlobal
